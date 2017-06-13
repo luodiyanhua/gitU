@@ -1,3 +1,1 @@
-﻿测试
-测试 加1
-今天是首次加一
+﻿if (Input.GetKeyDown(KeyCode.Escape))
